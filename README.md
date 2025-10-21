@@ -1,16 +1,10 @@
-# Welcome to your Lovable project
+# Economind
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/108ec1bb-c162-42d7-adbd-334dd37659c1
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/108ec1bb-c162-42d7-adbd-334dd37659c1) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
